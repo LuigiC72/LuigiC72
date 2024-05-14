@@ -1,4 +1,6 @@
 ### Hi there 👋
+🔭 I’m currently working on mixing texts and images
+📫 How to reach me: luigi.curini@unimi.it
 
 <!--
 **LuigiC72/LuigiC72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
